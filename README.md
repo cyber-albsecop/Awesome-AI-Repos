@@ -8,6 +8,7 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — Cross-platform personal AI assistant designed to run on the user's own infrastructure.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — Orchestration app for managing teams of AI agents with goals, budgets, governance, and cost tracking.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — Collection of specialized AI agent definitions for engineering, design, marketing, and business roles.
+- [gastownhall/gastown](https://github.com/gastownhall/gastown) — Workspace manager for coordinating multiple coding agents with persistent work tracking, handoffs, and merge queues.
 
 ## 💬 LLM Applications
 
@@ -15,6 +16,7 @@
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) — Global intelligence dashboard that uses AI to synthesize news feeds into situational briefs.
 - [f/prompts.chat](https://github.com/f/prompts.chat) — Open-source application for sharing, discovering, and self-hosting prompts for LLMs.
 - [macro-inc/macro](https://github.com/macro-inc/macro) — Unified team workspace combining email, documents, tasks, CRM, and action-taking AI agents with shared memory.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) — Self-hosted AI workspace for chat, agents, research, documents, email, and local model workflows.
 
 ## 🛠️ AI Developer Tools
 
@@ -23,6 +25,8 @@
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Context API for searching, scraping, and transforming web data for AI applications and agents.
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) — Graph-native context infrastructure for knowledge graphs, GraphRAG, provenance, and accountable AI systems.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — LLM gateway that routes requests across providers and models with quota-aware fallback and agent-tool support.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) — Terminal tool that detects hardware and ranks local LLMs by memory fit, speed, quality, and context capacity.
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) — Agent skill and local service for inspecting and removing AI provenance markers and metadata from user-owned text and files.
 
 ## 💻 AI Coding Assistants
 
@@ -37,6 +41,7 @@
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — Frontend design skill for AI coding agents and low-code tools.
 - [mattpocock/skills](https://github.com/mattpocock/skills) — Composable engineering workflow skills for Claude Code, Codex, and other coding agents.
 - [obra/superpowers](https://github.com/obra/superpowers) — Skills-based software development methodology for coding agents, including planning, testing, and subagent workflows.
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill for coding agents that builds, audits, studies, and redesigns interfaces using reusable design rules.
 
 ## 🔐 AI Security & Safety
 
@@ -52,6 +57,7 @@
 - [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) — Fuzzer for testing LLM APIs against jailbreaks and other security vulnerabilities.
 - [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker) — Terminal-based AI red-team harness with automated attacks, benchmarks, target adapters, and LLM judging.
 - [usestrix/strix](https://github.com/usestrix/strix) — Agentic penetration-testing tool for finding and validating application vulnerabilities.
+- [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) — CLI and agent skill for auditing AI agents across operational assurance, red-team, governance, and security checks.
 
 ## 🎨 Image & Video Generation
 
@@ -60,6 +66,7 @@
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — Agentic video-production system with reusable pipelines, tools, and production skills.
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — Self-hosted studio for generating images and videos through multiple generative models.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Node-based GUI, API, and backend for diffusion-model image generation workflows.
+- [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) — Prompt-as-code library of GPT-Image 2 cases, reusable templates, and an agent skill for structured image-generation workflows.
 
 ## 📚 AI Research & Learning
 
@@ -71,6 +78,7 @@
 - [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) — Curated prompt- and context-engineering resources spanning papers, tools, models, benchmarks, courses, and agent workflows.
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) — Corpus of system prompts, custom instructions, jailbreaks, protection prompts, and research tools across major LLM platforms.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) — Curated list of ChatGPT applications, extensions, and developer resources.
+- [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) — Open-source multilingual book with 103 experiments covering AI agent design principles and engineering practice.
 
 ## 🔌 MCP & AI Integrations
 
