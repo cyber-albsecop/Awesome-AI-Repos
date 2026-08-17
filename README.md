@@ -71,6 +71,9 @@
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) — Authentication gateway connecting SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 
 
+![AI God](assets/AI God.png)
+
+
 ## Keywords
 
 codex, openai-codex, ai-agents, ai-automation, agentic-ai, autonomous-agents, coding-agents, code-automation, developer-tools, ai-tools, workflow-automation, agent-framework, multi-agent-systems, llm-agents, generative-ai, artificial-intelligence, large-language-models, openai, chatgpt, github-copilot, claude, gemini, cursor, windsurf, aider, continue-dev, open-interpreter, crewai, autogen, langchain, langgraph, semantic-kernel, llamaindex, mcp, model-context-protocol, computer-use, browser-automation, task-automation, devops-automation, software-engineering, code-generation, code-review, debugging, testing-automation, prompt-engineering, rag, vector-database, open-source-ai, awesome-list, ai-resources
