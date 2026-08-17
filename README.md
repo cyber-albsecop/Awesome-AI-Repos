@@ -71,7 +71,7 @@
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) — Authentication gateway connecting SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 
 
-![AI God](assets/AI God.png)
+![AI God](assets/ai-god.png)
 
 
 ## Keywords
