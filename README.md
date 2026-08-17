@@ -41,10 +41,15 @@
 ## 🔐 AI Security & Safety
 
 - [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) — Curated collection of resources covering AI and LLM security.
+- [yueliu1999/Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) — Curated collection of LLM jailbreak attacks, defenses, guard models, evaluations, datasets, and analysis.
+- [GenggengSvan/Jailbreak-Observatory](https://github.com/GenggengSvan/Jailbreak-Observatory) — Interactive research map tracking LLM jailbreak papers, conference coverage, citations, and attack-defense relationships.
+- [x-zheng16/Awesome-Embodied-AI-Safety](https://github.com/x-zheng16/Awesome-Embodied-AI-Safety) — Survey and searchable catalog of embodied-AI safety research across perception, cognition, planning, interaction, and agentic systems.
+- [cckuailong/awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security) — Curated collection of LLM security tools, prompt-injection research, red-team resources, and vulnerability case studies.
 - [uber/ADR](https://github.com/uber/ADR) — Framework for AI agent observability, security benchmarking, and threat detection.
 - [zhaoxuya520/reverse-skill](https://github.com/zhaoxuya520/reverse-skill) — Skill router for AI agents performing authorized reverse engineering, security research, and penetration testing.
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) — LLM-powered agent framework for automated penetration testing.
 - [Rizzo-AI-Academy/rizzo-pii](https://github.com/Rizzo-AI-Academy/rizzo-pii) — Local Italian PII detection model and reversible anonymization workflow for using sensitive documents with LLMs.
+- [cyberark/FuzzyAI](https://github.com/cyberark/FuzzyAI) — Fuzzer for testing LLM APIs against jailbreaks and other security vulnerabilities.
 - [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker) — Terminal-based AI red-team harness with automated attacks, benchmarks, target adapters, and LLM judging.
 - [usestrix/strix](https://github.com/usestrix/strix) — Agentic penetration-testing tool for finding and validating application vulnerabilities.
 
@@ -62,6 +67,9 @@
 - [kyrolabs/awesome-agents](https://github.com/kyrolabs/awesome-agents) — Curated directory of AI agents, frameworks, and related resources.
 - [uhub/awesome-chatgpt](https://github.com/uhub/awesome-chatgpt) — Curated directory of ChatGPT-related applications, tools, and resources.
 - [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) — Guides, papers, lessons, and notebooks for prompt engineering, RAG, and AI agents.
+- [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) — Hands-on Jupyter tutorials implementing 22 prompt-engineering techniques from templates through tree-of-thought prompting.
+- [promptslab/Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering) — Curated prompt- and context-engineering resources spanning papers, tools, models, benchmarks, courses, and agent workflows.
+- [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) — Corpus of system prompts, custom instructions, jailbreaks, protection prompts, and research tools across major LLM platforms.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) — Curated list of ChatGPT applications, extensions, and developer resources.
 
 ## 🔌 MCP & AI Integrations
