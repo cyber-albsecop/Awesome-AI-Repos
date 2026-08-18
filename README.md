@@ -58,6 +58,8 @@
 - [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker) — Terminal-based AI red-team harness with automated attacks, benchmarks, target adapters, and LLM judging.
 - [usestrix/strix](https://github.com/usestrix/strix) — Agentic penetration-testing tool for finding and validating application vulnerabilities.
 - [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) — CLI and agent skill for auditing AI agents across operational assurance, red-team, governance, and security checks.
+- [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) — Collection of jailbreak prompts for major AI models.
+- [cyber-albsecop/Awesome-AI-Super-Prompting](https://github.com/cyber-albsecop/Awesome-AI-Super-Prompting) — Curated directory of LLM jailbreaks, system-prompt leaks, prompt engineering, red-team tools, and AI security resources.
 
 ## 🎨 Image & Video Generation
 
@@ -79,6 +81,9 @@
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) — Corpus of system prompts, custom instructions, jailbreaks, protection prompts, and research tools across major LLM platforms.
 - [sindresorhus/awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt) — Curated list of ChatGPT applications, extensions, and developer resources.
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) — Open-source multilingual book with 103 experiments covering AI agent design principles and engineering practice.
+- [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) — Curated prompt-engineering resources spanning guides, techniques, prompt collections, papers, tools, and prompt-injection material.
+- [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) — Curated prompt-engineering collection covering reusable prompts, frameworks, evaluation, security, context engineering, and agent tooling.
+- [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) — Collection of system prompts from ChatGPT and other AI products with learning resources for prompt writing and prompt-injection security.
 
 ## 🔌 MCP & AI Integrations
 
