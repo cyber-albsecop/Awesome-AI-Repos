@@ -10,6 +10,11 @@
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — Collection of specialized AI agent definitions for engineering, design, marketing, and business roles.
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) — Workspace manager for coordinating multiple coding agents with persistent work tracking, handoffs, and merge queues.
 
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) — Framework that lets AI agents navigate websites, interact with pages, and complete browser tasks.
+- [andrewyng/openworker](https://github.com/andrewyng/openworker) — Local desktop AI coworker that uses model providers and governed integrations to complete security and office tasks.
+- [LocoreMind/locoagent](https://github.com/LocoreMind/locoagent) — LLM-driven social-media agent that operates accounts through browser automation, scheduled workflows, and platform skills.
+- [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) — Desktop harness for coordinating multiple coding agents with messaging, memory, and shared workspaces.
+
 ## 💬 LLM Applications
 
 - [lucaswalter/n8n-ai-automations](https://github.com/lucaswalter/n8n-ai-automations) — Collection of n8n workflows and templates for AI automations and agents.
@@ -17,6 +22,12 @@
 - [f/prompts.chat](https://github.com/f/prompts.chat) — Open-source application for sharing, discovering, and self-hosting prompts for LLMs.
 - [macro-inc/macro](https://github.com/macro-inc/macro) — Unified team workspace combining email, documents, tasks, CRM, and action-taking AI agents with shared memory.
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) — Self-hosted AI workspace for chat, agents, research, documents, email, and local model workflows.
+
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) — Agent skill that researches recent discussion across social and web sources and synthesizes evidence-ranked briefs.
+- [trypostit/trypost](https://github.com/trypostit/trypost) — Self-hosted social-media scheduler with AI content generation, automation workflows, and an MCP interface for agents.
+- [stevenflanagan1/social-ai-team](https://github.com/stevenflanagan1/social-ai-team) — Claude Code skill suite for brand setup, social content creation, publishing, and performance review.
+- [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) — Agent-skill collection for researching social posts, comments, competitors, trends, ads, and audiences.
+- [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) — Monitoring app that uses LLMs to identify trends in social and web content and send alerts.
 
 ## 🛠️ AI Developer Tools
 
@@ -27,6 +38,10 @@
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — LLM gateway that routes requests across providers and models with quota-aware fallback and agent-tool support.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) — Terminal tool that detects hardware and ranks local LLMs by memory fit, speed, quality, and context capacity.
 - [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) — Agent skill and local service for inspecting and removing AI provenance markers and metadata from user-owned text and files.
+
+- [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) — Edge-native MoE inference engine for running large open-weight models across consumer GPU and CPU memory.
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) — Self-hosted AI API gateway for distributing subscription quotas across model providers and compatible clients.
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python utility that converts documents and media to Markdown for LLM and text-analysis pipelines.
 
 ## 💻 AI Coding Assistants
 
@@ -42,6 +57,13 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) — Composable engineering workflow skills for Claude Code, Codex, and other coding agents.
 - [obra/superpowers](https://github.com/obra/superpowers) — Skills-based software development methodology for coding agents, including planning, testing, and subagent workflows.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill for coding agents that builds, audits, studies, and redesigns interfaces using reusable design rules.
+
+- [stablyai/orca](https://github.com/stablyai/orca) — Desktop environment for running and coordinating multiple coding agents in isolated Git worktrees.
+- [tt-a1i/archify](https://github.com/tt-a1i/archify) — Coding-agent skill and deterministic renderer for producing validated interactive system diagrams from codebases or descriptions.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) — Coding-agent guidelines for explicit assumptions, simple implementations, targeted edits, and verifiable outcomes.
+- [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Model and provider router for using multiple coding agents with failover across remote and local LLM backends.
+- [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) — Agent skill that enforces acceptance criteria, executable gates, evidence checks, and revalidation for substantial coding work.
+- [affaan-m/ECC](https://github.com/affaan-m/ECC) — Collection of skills, memory, security, and workflow tooling for optimizing coding-agent harnesses.
 
 ## 🔐 AI Security & Safety
 
@@ -61,6 +83,12 @@
 - [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) — Collection of jailbreak prompts for major AI models.
 - [cyber-albsecop/Awesome-AI-Super-Prompting](https://github.com/cyber-albsecop/Awesome-AI-Super-Prompting) — Curated directory of LLM jailbreaks, system-prompt leaks, prompt engineering, red-team tools, and AI security resources.
 
+- [elder-plinius/OBLITERATUS](https://github.com/elder-plinius/OBLITERATUS) — Toolkit for locating and modifying LLM refusal representations, comparing intervention methods, and benchmarking behavior changes.
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) — Collection of extracted system prompts, tool definitions, and behavioral guidelines from major AI products.
+- [Tencent/AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard) — AI red-teaming platform for scanning agents, skills, MCP servers, model infrastructure, and jailbreak exposure.
+- [confident-ai/deepteam](https://github.com/confident-ai/deepteam) — Local red-teaming framework that tests LLM agents, RAG pipelines, and chatbots for security and safety vulnerabilities.
+- [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) — Library of structured cybersecurity skills for AI agents across defensive, offensive, incident-response, and governance workflows.
+
 ## 🎨 Image & Video Generation
 
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — Curated multilingual prompt library with previews for Gemini image-generation models.
@@ -69,6 +97,10 @@
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — Self-hosted studio for generating images and videos through multiple generative models.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Node-based GUI, API, and backend for diffusion-model image generation workflows.
 - [freestylefly/awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) — Prompt-as-code library of GPT-Image 2 cases, reusable templates, and an agent skill for structured image-generation workflows.
+
+- [songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) — Claude Code skill for generating structured multimodal prompts for Seedance 2.0 video workflows.
+- [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill) — Agent skill with prompting patterns and templates for Seedance 2.0 video generation.
+- [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — Automated pipeline that uses LLMs to generate scripts, source media, subtitles, music, and short videos.
 
 ## 📚 AI Research & Learning
 
@@ -84,6 +116,11 @@
 - [snwfdhmp/awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering) — Curated prompt-engineering resources spanning guides, techniques, prompt collections, papers, tools, and prompt-injection material.
 - [ai-boost/awesome-prompts](https://github.com/ai-boost/awesome-prompts) — Curated prompt-engineering collection covering reusable prompts, frameworks, evaluation, security, context engineering, and agent tooling.
 - [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt) — Collection of system prompts from ChatGPT and other AI products with learning resources for prompt writing and prompt-injection security.
+
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) — Collection of runnable AI agent, skill, and RAG application examples across major model providers.
+- [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) — Research code and simulation environment for generative agents that model believable human behavior.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — Curated directory of agent skills from development teams and the community across major agent clients.
+- [cyber-albsecop/AI-Music-Success-Toolkit](https://github.com/cyber-albsecop/AI-Music-Success-Toolkit) — Curated collection of AI music-generation tools and production, distribution, promotion, and monetization resources.
 
 ## 🔌 MCP & AI Integrations
 
