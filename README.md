@@ -31,6 +31,7 @@
 
 ## 🛠️ AI Developer Tools
 
+- [sandbaseai/cli](https://github.com/sandbaseai/cli) — Provider-agnostic AI CLI and local MCP bridge connecting 25 clients to 2,000+ models and APIs.
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — CLI that gives AI agents search and reading access across social, video, and developer platforms.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — Toolkit for generating and testing command-line harnesses that let AI agents operate existing software.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Context API for searching, scraping, and transforming web data for AI applications and agents.
