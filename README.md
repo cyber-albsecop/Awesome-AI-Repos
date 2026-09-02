@@ -56,6 +56,7 @@
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) — Design-language skill and plugin for improving interface output from AI coding harnesses.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) — Frontend design skill for AI coding agents and low-code tools.
 - [mattpocock/skills](https://github.com/mattpocock/skills) — Composable engineering workflow skills for Claude Code, Codex, and other coding agents.
+- [nowork-studio/notfair-plugin](https://github.com/nowork-studio/notfair-plugin) — Open-source collection of 45 SEO, GEO, paid-media, analytics, and content Agent Skills with plugin support for Claude Code, Codex, Cursor, Gemini CLI, and other compatible agents.
 - [obra/superpowers](https://github.com/obra/superpowers) — Skills-based software development methodology for coding agents, including planning, testing, and subagent workflows.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill for coding agents that builds, audits, studies, and redesigns interfaces using reusable design rules.
 
