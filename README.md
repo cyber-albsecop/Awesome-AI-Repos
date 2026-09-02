@@ -42,6 +42,7 @@
 - [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) — Edge-native MoE inference engine for running large open-weight models across consumer GPU and CPU memory.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) — Self-hosted AI API gateway for distributing subscription quotas across model providers and compatible clients.
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python utility that converts documents and media to Markdown for LLM and text-analysis pipelines.
+- [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) — Internal-app platform with AI app generation and an MCP server that lets coding agents build and modify ToolJet applications.
 
 ## 💻 AI Coding Assistants
 
