@@ -34,6 +34,7 @@
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — CLI that gives AI agents search and reading access across social, video, and developer platforms.
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) — Toolkit for generating and testing command-line harnesses that let AI agents operate existing software.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) — Context API for searching, scraping, and transforming web data for AI applications and agents.
+- [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) — Web crawler that produces LLM-ready Markdown and structured data for RAG, agents, and AI data pipelines.
 - [semantica-agi/semantica](https://github.com/semantica-agi/semantica) — Graph-native context infrastructure for knowledge graphs, GraphRAG, provenance, and accountable AI systems.
 - [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) — LLM gateway that routes requests across providers and models with quota-aware fallback and agent-tool support.
 - [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) — Terminal tool that detects hardware and ranks local LLMs by memory fit, speed, quality, and context capacity.
@@ -81,6 +82,8 @@
 - [JailbrokenAI/wallbreaker](https://github.com/JailbrokenAI/wallbreaker) — Terminal-based AI red-team harness with automated attacks, benchmarks, target adapters, and LLM judging.
 - [usestrix/strix](https://github.com/usestrix/strix) — Agentic penetration-testing tool for finding and validating application vulnerabilities.
 - [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) — CLI and agent skill for auditing AI agents across operational assurance, red-team, governance, and security checks.
+- [p-e-w/heretic](https://github.com/p-e-w/heretic) — Tool that automatically removes refusal behavior from transformer language models using optimized directional ablation.
+- [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) — Codex jailbreak-prompt and regression-test pack with deployment, rollback, and evidence-gated versioning.
 - [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) — Collection of jailbreak prompts for major AI models.
 - [cyber-albsecop/Awesome-AI-Super-Prompting](https://github.com/cyber-albsecop/Awesome-AI-Super-Prompting) — Curated directory of LLM jailbreaks, system-prompt leaks, prompt engineering, red-team tools, and AI security resources.
 
@@ -128,6 +131,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) — AI-first workflow automation platform with agent building and MCP-exposed integrations.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated collection of servers for the Model Context Protocol.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) — Authentication gateway connecting SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [every-app/open-seo](https://github.com/every-app/open-seo) — Self-hosted SEO platform with an MCP server and agent skills for keyword, ranking, backlink, and site-audit workflows.
 
 
 ![AI God](assets/ai-god.png)
