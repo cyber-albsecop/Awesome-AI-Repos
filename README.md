@@ -6,6 +6,7 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) — Platform for organizing and operating teams of AI agents with scheduling, knowledge, and MCP support.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) — Visual platform for building and deploying AI agents and workflows.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) — Cross-platform personal AI assistant designed to run on the user's own infrastructure.
+- [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) — Local-first desktop AI workforce whose Commander coordinates specialist agents through one chat.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — Orchestration app for managing teams of AI agents with goals, budgets, governance, and cost tracking.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — Collection of specialized AI agent definitions for engineering, design, marketing, and business roles.
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) — Workspace manager for coordinating multiple coding agents with persistent work tracking, handoffs, and merge queues.
