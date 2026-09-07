@@ -29,6 +29,8 @@
 - [ScrapeCreators/social-media-research-skills](https://github.com/ScrapeCreators/social-media-research-skills) — Agent-skill collection for researching social posts, comments, competitors, trends, ads, and audiences.
 - [ericciarla/trendFinder](https://github.com/ericciarla/trendFinder) — Monitoring app that uses LLMs to identify trends in social and web content and send alerts.
 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) — Self-hosted social-media scheduler with AI content tools and MCP endpoints for agent-managed publishing.
+- [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) — Collection of n8n templates for AI agents, LLM workflows, RAG, chatbots, and general automation.
 ## 🛠️ AI Developer Tools
 
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — CLI that gives AI agents search and reading access across social, video, and developer platforms.
@@ -45,6 +47,7 @@
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) — Python utility that converts documents and media to Markdown for LLM and text-analysis pipelines.
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) — Internal-app platform with AI app generation and an MCP server that lets coding agents build and modify ToolJet applications.
 
+- [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) — Rust container and VM runtime with disposable microVM sandboxes and SDKs for running AI agents and untrusted code.
 ## 💻 AI Coding Assistants
 
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) — Curated list of plugins, themes, agents, projects, and resources for the OpenCode coding agent.
@@ -93,6 +96,7 @@
 - [confident-ai/deepteam](https://github.com/confident-ai/deepteam) — Local red-teaming framework that tests LLM agents, RAG pipelines, and chatbots for security and safety vulnerabilities.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) — Library of structured cybersecurity skills for AI agents across defensive, offensive, incident-response, and governance workflows.
 
+- [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) — Security-tool directory with dedicated sections for autonomous AI agents, LLM-powered scanners, AI application auditing, and agent runtime controls.
 ## 🎨 Image & Video Generation
 
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — Curated multilingual prompt library with previews for Gemini image-generation models.
@@ -126,6 +130,7 @@
 - [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) — Curated directory of agent skills from development teams and the community across major agent clients.
 - [cyber-albsecop/AI-Music-Success-Toolkit](https://github.com/cyber-albsecop/AI-Music-Success-Toolkit) — Curated collection of AI music-generation tools and production, distribution, promotion, and monetization resources.
 
+- [uhub/awesome-llm](https://github.com/uhub/awesome-llm) — Curated directory of LLM frameworks, libraries, applications, agents, learning resources, and infrastructure.
 ## 🔌 MCP & AI Integrations
 
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) — AI-first workflow automation platform with agent building and MCP-exposed integrations.
