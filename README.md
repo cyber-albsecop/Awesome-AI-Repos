@@ -31,6 +31,7 @@
 
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) — Self-hosted social-media scheduler with AI content tools and MCP endpoints for agent-managed publishing.
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) — Collection of n8n templates for AI agents, LLM workflows, RAG, chatbots, and general automation.
+
 ## 🛠️ AI Developer Tools
 
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — CLI that gives AI agents search and reading access across social, video, and developer platforms.
@@ -48,6 +49,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) — Internal-app platform with AI app generation and an MCP server that lets coding agents build and modify ToolJet applications.
 
 - [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) — Rust container and VM runtime with disposable microVM sandboxes and SDKs for running AI agents and untrusted code.
+
 ## 💻 AI Coding Assistants
 
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) — Curated list of plugins, themes, agents, projects, and resources for the OpenCode coding agent.
@@ -97,6 +99,7 @@
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) — Library of structured cybersecurity skills for AI agents across defensive, offensive, incident-response, and governance workflows.
 
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) — Security-tool directory with dedicated sections for autonomous AI agents, LLM-powered scanners, AI application auditing, and agent runtime controls.
+
 ## 🎨 Image & Video Generation
 
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — Curated multilingual prompt library with previews for Gemini image-generation models.
@@ -131,6 +134,7 @@
 - [cyber-albsecop/AI-Music-Success-Toolkit](https://github.com/cyber-albsecop/AI-Music-Success-Toolkit) — Curated collection of AI music-generation tools and production, distribution, promotion, and monetization resources.
 
 - [uhub/awesome-llm](https://github.com/uhub/awesome-llm) — Curated directory of LLM frameworks, libraries, applications, agents, learning resources, and infrastructure.
+
 ## 🔌 MCP & AI Integrations
 
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) — AI-first workflow automation platform with agent building and MCP-exposed integrations.
