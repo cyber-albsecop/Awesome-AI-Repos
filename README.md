@@ -140,6 +140,8 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) — AI-first workflow automation platform with agent building and MCP-exposed integrations.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated collection of servers for the Model Context Protocol.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) — Authentication gateway connecting SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
+- [brightbeanxyz/brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio) — Self-hosted social-media platform with a REST API and MCP server for agents to analyze media, manage posts, and schedule publishing.
+- [usekaneo/kaneo](https://github.com/usekaneo/kaneo) — Self-hosted project-management platform with a built-in MCP server for agents to manage tasks, projects, and labels.
 - [every-app/open-seo](https://github.com/every-app/open-seo) — Self-hosted SEO platform with an MCP server and agent skills for keyword, ranking, backlink, and site-audit workflows.
 
 
