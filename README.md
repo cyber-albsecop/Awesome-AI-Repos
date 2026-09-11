@@ -32,6 +32,11 @@
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) — Self-hosted social-media scheduler with AI content tools and MCP endpoints for agent-managed publishing.
 - [enescingoz/awesome-n8n-templates](https://github.com/enescingoz/awesome-n8n-templates) — Collection of n8n templates for AI agents, LLM workflows, RAG, chatbots, and general automation.
 
+- [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — Claude Code job-application workflow for evaluating roles, tailoring CVs and cover letters, and preparing interviews.
+- [bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) — Claude Code plugin for AI-assisted album production spanning research, lyrics, Suno prompts, audio mastering, and release preparation.
+- [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — Collection of agent skills for conversion optimization, copywriting, SEO, analytics, and growth workflows.
+- [blader/humanizer](https://github.com/blader/humanizer) — Agent skill that rewrites AI-generated prose while preserving meaning and factual details.
+
 ## 🛠️ AI Developer Tools
 
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — CLI that gives AI agents search and reading access across social, video, and developer platforms.
@@ -49,6 +54,8 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) — Internal-app platform with AI app generation and an MCP server that lets coding agents build and modify ToolJet applications.
 
 - [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) — Rust container and VM runtime with disposable microVM sandboxes and SDKs for running AI agents and untrusted code.
+
+- [google/artemis](https://github.com/google/artemis) — AI-powered Android automation and testing system that executes natural-language workflows, captures diagnostics, and exposes devices through MCP.
 
 ## 💻 AI Coding Assistants
 
@@ -71,6 +78,11 @@
 - [Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code) — Model and provider router for using multiple coding agents with failover across remote and local LLM backends.
 - [Leonxlnx/unlazy](https://github.com/Leonxlnx/unlazy) — Agent skill that enforces acceptance criteria, executable gates, evidence checks, and revalidation for substantial coding work.
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) — Collection of skills, memory, security, and workflow tooling for optimizing coding-agent harnesses.
+
+- [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) — Read-only MCP bridge that uses ChatGPT for planning and review while Codex executes coding tasks.
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) — Agent skill that formats coding-assistant responses as concise, action-first, numbered guidance.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — Agent skill for generating branded, self-contained HTML and SVG diagrams across technical and editorial formats.
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — Agent skill and local proxy for reducing coding-agent token usage while preserving code, commands, and exact errors.
 
 ## 🔐 AI Security & Safety
 
