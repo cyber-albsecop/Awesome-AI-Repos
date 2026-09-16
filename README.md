@@ -37,6 +37,9 @@
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — Collection of agent skills for conversion optimization, copywriting, SEO, analytics, and growth workflows.
 - [blader/humanizer](https://github.com/blader/humanizer) — Agent skill that rewrites AI-generated prose while preserving meaning and factual details.
 
+- [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Claude Code plugin with specialist skills and agents for technical, content, schema, local, and AI-search SEO audits.
+- [bradautomates/claude-video](https://github.com/bradautomates/claude-video) — Agent skill that extracts video frames and timestamped transcripts so multimodal models can answer questions about URLs and local videos.
+
 ## 🛠️ AI Developer Tools
 
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — CLI that gives AI agents search and reading access across social, video, and developer platforms.
@@ -56,6 +59,8 @@
 - [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) — Rust container and VM runtime with disposable microVM sandboxes and SDKs for running AI agents and untrusted code.
 
 - [google/artemis](https://github.com/google/artemis) — AI-powered Android automation and testing system that executes natural-language workflows, captures diagnostics, and exposes devices through MCP.
+
+- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) — Agent skill and local extractor that converts books and document collections into structured, on-demand skills for compatible agent hosts.
 
 ## 💻 AI Coding Assistants
 
