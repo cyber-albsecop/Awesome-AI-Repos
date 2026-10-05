@@ -105,7 +105,7 @@
 - [usestrix/strix](https://github.com/usestrix/strix) — Agentic penetration-testing tool for finding and validating application vulnerabilities.
 - [ifixai-ai/iFixAi](https://github.com/ifixai-ai/iFixAi) — CLI and agent skill for auditing AI agents across operational assurance, red-team, governance, and security checks.
 - [p-e-w/heretic](https://github.com/p-e-w/heretic) — Tool that automatically removes refusal behavior from transformer language models using optimized directional ablation.
-- [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) — Codex jailbreak-prompt and regression-test pack with deployment, rollback, and evidence-gated versioning.
+- [MDX-Tom/gpt-instruct](https://github.com/MDX-Tom/gpt-instruct) — Codex jailbreak-prompt and regression-test pack with deployment, rollback, and evidence-gated versioning.
 - [elder-plinius/L1B3RT4S](https://github.com/elder-plinius/L1B3RT4S) — Collection of jailbreak prompts for major AI models.
 - [cyber-albsecop/Awesome-AI-Super-Prompting](https://github.com/cyber-albsecop/Awesome-AI-Super-Prompting) — Curated directory of LLM jailbreaks, system-prompt leaks, prompt engineering, red-team tools, and AI security resources.
 
