@@ -14,6 +14,7 @@
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) — Local desktop AI coworker that uses model providers and governed integrations to complete security and office tasks.
 - [LocoreMind/locoagent](https://github.com/LocoreMind/locoagent) — LLM-driven social-media agent that operates accounts through browser automation, scheduled workflows, and platform skills.
 - [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) — Desktop harness for coordinating multiple coding agents with messaging, memory, and shared workspaces.
+- [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) — Self-hostable template for persistent AI coworkers with configurable roles, isolated computers, background work, voice calls, and Slack integration.
 
 ## 💬 LLM Applications
 
@@ -61,6 +62,7 @@
 - [google/artemis](https://github.com/google/artemis) — AI-powered Android automation and testing system that executes natural-language workflows, captures diagnostics, and exposes devices through MCP.
 
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) — Agent skill and local extractor that converts books and document collections into structured, on-demand skills for compatible agent hosts.
+- [caglarutkuguler/cubicle](https://github.com/caglarutkuguler/cubicle) — Read-only dashboard that visualizes coding-agent activity as a live pixel-art office with task, status, and alert views.
 
 ## 💻 AI Coding Assistants
 
@@ -88,6 +90,7 @@
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) — Agent skill that formats coding-assistant responses as concise, action-first, numbered guidance.
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — Agent skill for generating branded, self-contained HTML and SVG diagrams across technical and editorial formats.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — Agent skill and local proxy for reducing coding-agent token usage while preserving code, commands, and exact errors.
+- [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) — Skills, tools, and a knowledge base that let AI coding agents inspect, modify, test, and package mods for owned PC games.
 
 ## 🔐 AI Security & Safety
 
@@ -116,6 +119,8 @@
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) — Library of structured cybersecurity skills for AI agents across defensive, offensive, incident-response, and governance workflows.
 
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) — Security-tool directory with dedicated sections for autonomous AI agents, LLM-powered scanners, AI application auditing, and agent runtime controls.
+- [nealbridges/VulnHunter](https://github.com/nealbridges/VulnHunter) — Harness-portable agentic security scanner that traces exploitable code paths, validates findings with proof-of-concept tests, and proposes fixes.
+- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) — Collection of jailbreak prompts targeting DeepSeek, GLM, Grok, Claude, Qwen, and other language models.
 
 ## 🎨 Image & Video Generation
 
@@ -160,6 +165,7 @@
 - [brightbeanxyz/brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio) — Self-hosted social-media platform with a REST API and MCP server for agents to analyze media, manage posts, and schedule publishing.
 - [usekaneo/kaneo](https://github.com/usekaneo/kaneo) — Self-hosted project-management platform with a built-in MCP server for agents to manage tasks, projects, and labels.
 - [every-app/open-seo](https://github.com/every-app/open-seo) — Self-hosted SEO platform with an MCP server and agent skills for keyword, ranking, backlink, and site-audit workflows.
+- [morluto/rea](https://github.com/morluto/rea) — MCP server and CLI that give AI agents evidence-backed reverse-engineering tools for binaries, applications, websites, and runtime behavior.
 
 
 ![AI God](assets/ai-god.png)
