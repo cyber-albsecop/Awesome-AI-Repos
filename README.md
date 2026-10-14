@@ -36,9 +36,11 @@
 - [MadsLorentzen/ai-job-search](https://github.com/MadsLorentzen/ai-job-search) — Claude Code job-application workflow for evaluating roles, tailoring CVs and cover letters, and preparing interviews.
 - [bitwize-music-studio/claude-ai-music-skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) — Claude Code plugin for AI-assisted album production spanning research, lyrics, Suno prompts, audio mastering, and release preparation.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) — Collection of agent skills for conversion optimization, copywriting, SEO, analytics, and growth workflows.
+- [charlie947/social-media-skills](https://github.com/charlie947/social-media-skills) — Collection of agent skills for voice modeling, social-media writing, research, analytics, and visual-content workflows in Codex and Claude.
 - [blader/humanizer](https://github.com/blader/humanizer) — Agent skill that rewrites AI-generated prose while preserving meaning and factual details.
 
 - [AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo) — Claude Code plugin with specialist skills and agents for technical, content, schema, local, and AI-search SEO audits.
+- [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) — Self-hosted research tool for measuring brand visibility, competitors, and citations across AI model responses.
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) — Agent skill that extracts video frames and timestamped transcripts so multimodal models can answer questions about URLs and local videos.
 
 ## 🛠️ AI Developer Tools
@@ -58,6 +60,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) — Internal-app platform with AI app generation and an MCP server that lets coding agents build and modify ToolJet applications.
 
 - [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) — Rust container and VM runtime with disposable microVM sandboxes and SDKs for running AI agents and untrusted code.
+- [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) — Fault-tolerant GPU orchestration and distributed training framework for large neural networks and LLMs.
 
 - [google/artemis](https://github.com/google/artemis) — AI-powered Android automation and testing system that executes natural-language workflows, captures diagnostics, and exposes devices through MCP.
 
@@ -133,6 +136,7 @@
 
 - [songguoxs/seedance-prompt-skill](https://github.com/songguoxs/seedance-prompt-skill) — Claude Code skill for generating structured multimodal prompts for Seedance 2.0 video workflows.
 - [dexhunter/seedance2-skill](https://github.com/dexhunter/seedance2-skill) — Agent skill with prompting patterns and templates for Seedance 2.0 video generation.
+- [ZeroLu/awesome-seedance](https://github.com/ZeroLu/awesome-seedance) — Curated collection of Seedance 2.0 video-generation prompts, techniques, examples, and API resources.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) — Automated pipeline that uses LLMs to generate scripts, source media, subtitles, music, and short videos.
 
 ## 📚 AI Research & Learning
