@@ -121,6 +121,7 @@
 - [confident-ai/deepteam](https://github.com/confident-ai/deepteam) — Local red-teaming framework that tests LLM agents, RAG pipelines, and chatbots for security and safety vulnerabilities.
 - [mukul975/Anthropic-Cybersecurity-Skills](https://github.com/mukul975/Anthropic-Cybersecurity-Skills) — Library of structured cybersecurity skills for AI agents across defensive, offensive, incident-response, and governance workflows.
 
+- [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) — Open source (GPL-3.0) autonomous AI penetration-testing platform where a local LLM orchestrates specialist offensive agents and tools over MCP and proves each finding with a real exploit.
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) — Security-tool directory with dedicated sections for autonomous AI agents, LLM-powered scanners, AI application auditing, and agent runtime controls.
 - [nealbridges/VulnHunter](https://github.com/nealbridges/VulnHunter) — Harness-portable agentic security scanner that traces exploitable code paths, validates findings with proof-of-concept tests, and proposes fixes.
 - [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) — Collection of jailbreak prompts targeting DeepSeek, GLM, Grok, Claude, Qwen, and other language models.
