@@ -67,6 +67,9 @@
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) — Agent skill and local extractor that converts books and document collections into structured, on-demand skills for compatible agent hosts.
 - [caglarutkuguler/cubicle](https://github.com/caglarutkuguler/cubicle) — Read-only dashboard that visualizes coding-agent activity as a live pixel-art office with task, status, and alert views.
 
+- [mksglu/context-mode](https://github.com/mksglu/context-mode) — MCP server and coding-agent plugin that sandboxes tool output, indexes session knowledge, and preserves task context.
+- [Ebony-Vinyl/dsh-our-free-model](https://github.com/Ebony-Vinyl/dsh-our-free-model) — DeepSeek Harness plugin for zero-configuration access to upstream free models through a local OpenAI-compatible endpoint.
+
 ## 💻 AI Coding Assistants
 
 - [awesome-opencode/awesome-opencode](https://github.com/awesome-opencode/awesome-opencode) — Curated list of plugins, themes, agents, projects, and resources for the OpenCode coding agent.
@@ -124,6 +127,8 @@
 - [We5ter/Scanners-Box](https://github.com/We5ter/Scanners-Box) — Security-tool directory with dedicated sections for autonomous AI agents, LLM-powered scanners, AI application auditing, and agent runtime controls.
 - [nealbridges/VulnHunter](https://github.com/nealbridges/VulnHunter) — Harness-portable agentic security scanner that traces exploitable code paths, validates findings with proof-of-concept tests, and proposes fixes.
 - [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) — Collection of jailbreak prompts targeting DeepSeek, GLM, Grok, Claude, Qwen, and other language models.
+
+- [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) — Self-hosted multi-agent platform that plans and executes authorized penetration tests with cloud or local LLMs.
 
 ## 🎨 Image & Video Generation
 
