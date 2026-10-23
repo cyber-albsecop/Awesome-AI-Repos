@@ -13,7 +13,7 @@
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) — Framework that lets AI agents navigate websites, interact with pages, and complete browser tasks.
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) — Local desktop AI coworker that uses model providers and governed integrations to complete security and office tasks.
 - [LocoreMind/locoagent](https://github.com/LocoreMind/locoagent) — LLM-driven social-media agent that operates accounts through browser automation, scheduled workflows, and platform skills.
-- [chaitanyagiri/munder-difflin](https://github.com/chaitanyagiri/munder-difflin) — Desktop harness for coordinating multiple coding agents with messaging, memory, and shared workspaces.
+- [HarnessMD/munder-difflin](https://github.com/HarnessMD/munder-difflin) — Desktop harness for coordinating multiple coding agents with messaging, memory, and shared workspaces.
 - [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) — Self-hostable template for persistent AI coworkers with configurable roles, isolated computers, background work, voice calls, and Slack integration.
 
 ## 💬 LLM Applications
@@ -168,6 +168,13 @@
 
 ## 🔌 MCP & AI Integrations
 
+- [jub0t/Concat](https://github.com/jub0t/Concat) — Local-first video editor with offline AI captions, voices, and subject cutout plus MCP and JSON-RPC interfaces for agent-driven editing.
+- [storytold/filmcraft](https://github.com/storytold/filmcraft) — Rust video editor with a command API, control channel, and MCP server that let agents edit, grade, mix, and export projects.
+- [storytold/pdfcraft](https://github.com/storytold/pdfcraft) — Rust PDF reader and editor with an opt-in MCP server exposing document inspection, editing, commenting, form, and export operations to agents.
+- [storytold/effectcraft](https://github.com/storytold/effectcraft) — Rust motion-graphics and compositing app with a CLI and MCP server that expose its command set to AI agents.
+- [storytold/lightcraft](https://github.com/storytold/lightcraft) — Rust photo library and raw developer with a command API and MCP server for agent-controlled culling, editing, masking, and export.
+- [storytold/vectorcraft](https://github.com/storytold/vectorcraft) — Rust vector-illustration app with CLI, control-channel, and MCP interfaces for agent-driven drawing, editing, and export.
+- [storytold/photocraft](https://github.com/storytold/photocraft) — Rust image editor whose command engine is accessible through CLI, JSON control, and MCP interfaces for AI agents.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) — AI-first workflow automation platform with agent building and MCP-exposed integrations.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated collection of servers for the Model Context Protocol.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) — Authentication gateway connecting SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
