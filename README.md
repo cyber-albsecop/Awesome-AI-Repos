@@ -134,6 +134,7 @@
 
 - [YouMind-OpenLab/awesome-nano-banana-pro-prompts](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts) — Curated multilingual prompt library with previews for Gemini image-generation models.
 - [FujiwaraChoki/MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) — Ollama-powered pipeline for generating scripts, metadata, and videos for YouTube Shorts.
+- [Orkas-AI/Orkas-VideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — MIT-licensed, local-first CLI and MCP toolkit for coding agents to compose, edit and generate videos from editable plan.json timelines.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — Agentic video-production system with reusable pipelines, tools, and production skills.
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — Self-hosted studio for generating images and videos through multiple generative models.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) — Node-based GUI, API, and backend for diffusion-model image generation workflows.
