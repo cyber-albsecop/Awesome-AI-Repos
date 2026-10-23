@@ -176,6 +176,7 @@
 - [storytold/vectorcraft](https://github.com/storytold/vectorcraft) — Rust vector-illustration app with CLI, control-channel, and MCP interfaces for agent-driven drawing, editing, and export.
 - [storytold/photocraft](https://github.com/storytold/photocraft) — Rust image editor whose command engine is accessible through CLI, JSON control, and MCP interfaces for AI agents.
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) — AI-first workflow automation platform with agent building and MCP-exposed integrations.
+- [runapi-ai/mcp](https://github.com/runapi-ai/mcp) — MCP server for model discovery and image, video, music, speech, and other model API jobs.
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Curated collection of servers for the Model Context Protocol.
 - [oomol-lab/open-connector](https://github.com/oomol-lab/open-connector) — Authentication gateway connecting SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.
 - [brightbeanxyz/brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio) — Self-hosted social-media platform with a REST API and MCP server for agents to analyze media, manage posts, and schedule publishing.
