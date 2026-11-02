@@ -97,6 +97,7 @@
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) — Agent skill for generating branded, self-contained HTML and SVG diagrams across technical and editorial formats.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) — Agent skill and local proxy for reducing coding-agent token usage while preserving code, commands, and exact errors.
 - [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) — Skills, tools, and a knowledge base that let AI coding agents inspect, modify, test, and package mods for owned PC games.
+- [EL4CTEO/blender-skills](https://github.com/EL4CTEO/blender-skills) — Tested Blender workflow skills for AI coding agents covering modeling, materials, rigging, animation, export, and asset QA.
 
 ## 🔐 AI Security & Safety
 
