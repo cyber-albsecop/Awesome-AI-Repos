@@ -9,6 +9,7 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — Orchestration app for managing teams of AI agents with goals, budgets, governance, and cost tracking.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — Collection of specialized AI agent definitions for engineering, design, marketing, and business roles.
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) — Workspace manager for coordinating multiple coding agents with persistent work tracking, handoffs, and merge queues.
+- [aai-labs/agent-barn](https://github.com/aai-labs/agent-barn) - Open-source (Apache-2.0) control plane for running AI agent teams with Slack/Teams/Telegram/Discord/email front ends, full audit logging of conversations, tool calls and costs, deployed on Kubernetes via Helm.
 
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) — Framework that lets AI agents navigate websites, interact with pages, and complete browser tasks.
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) — Local desktop AI coworker that uses model providers and governed integrations to complete security and office tasks.
