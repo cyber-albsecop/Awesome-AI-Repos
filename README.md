@@ -9,6 +9,7 @@
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — Orchestration app for managing teams of AI agents with goals, budgets, governance, and cost tracking.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) — Collection of specialized AI agent definitions for engineering, design, marketing, and business roles.
 - [gastownhall/gastown](https://github.com/gastownhall/gastown) — Workspace manager for coordinating multiple coding agents with persistent work tracking, handoffs, and merge queues.
+- [Orkas-AI/Orkas](https://github.com/Orkas-AI/Orkas) — Local-first desktop app that coordinates specialist agents and coding assistants across projects, tasks, memory, and scheduled automations.
 
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) — Framework that lets AI agents navigate websites, interact with pages, and complete browser tasks.
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) — Local desktop AI coworker that uses model providers and governed integrations to complete security and office tasks.
@@ -61,6 +62,7 @@
 
 - [arcboxlabs/arcbox](https://github.com/arcboxlabs/arcbox) — Rust container and VM runtime with disposable microVM sandboxes and SDKs for running AI agents and untrusted code.
 - [higgsfield-ai/higgsfield](https://github.com/higgsfield-ai/higgsfield) — Fault-tolerant GPU orchestration and distributed training framework for large neural networks and LLMs.
+- [storytold/craft-anything](https://github.com/storytold/craft-anything) — Clean-room development environment that inspects software, directs a coding agent to build a new version, and iteratively compares results.
 
 - [google/artemis](https://github.com/google/artemis) — AI-powered Android automation and testing system that executes natural-language workflows, captures diagnostics, and exposes devices through MCP.
 
@@ -84,6 +86,8 @@
 - [mattpocock/skills](https://github.com/mattpocock/skills) — Composable engineering workflow skills for Claude Code, Codex, and other coding agents.
 - [obra/superpowers](https://github.com/obra/superpowers) — Skills-based software development methodology for coding agents, including planning, testing, and subagent workflows.
 - [Nutlope/hallmark](https://github.com/Nutlope/hallmark) — Design skill for coding agents that builds, audits, studies, and redesigns interfaces using reusable design rules.
+- [heydamir/unslop](https://github.com/heydamir/unslop) — Claude Code and Codex skill that audits and redesigns AI-generated interfaces through product-specific visual direction and iterative screen fixes.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) — Claude Code configuration that organizes 49 specialized agents and 74 skills into a coordinated game-development studio workflow.
 
 - [stablyai/orca](https://github.com/stablyai/orca) — Desktop environment for running and coordinating multiple coding agents in isolated Git worktrees.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) — Coding-agent skill and deterministic renderer for producing validated interactive system diagrams from codebases or descriptions.
