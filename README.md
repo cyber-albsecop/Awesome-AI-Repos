@@ -65,6 +65,7 @@
 - [storytold/craft-anything](https://github.com/storytold/craft-anything) — Clean-room development environment that inspects software, directs a coding agent to build a new version, and iteratively compares results.
 
 - [google/artemis](https://github.com/google/artemis) — AI-powered Android automation and testing system that executes natural-language workflows, captures diagnostics, and exposes devices through MCP.
+- [vostride/agent-qa](https://github.com/vostride/agent-qa) — Natural-language web and mobile QA with persistent memidex memory, recorded evidence, and validated self-improvement. [Website](https://vostride.com).
 
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) — Agent skill and local extractor that converts books and document collections into structured, on-demand skills for compatible agent hosts.
 - [caglarutkuguler/cubicle](https://github.com/caglarutkuguler/cubicle) — Read-only dashboard that visualizes coding-agent activity as a live pixel-art office with task, status, and alert views.
