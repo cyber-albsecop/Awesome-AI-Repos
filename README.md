@@ -105,6 +105,7 @@
 
 ## 🔐 AI Security & Safety
 
+- [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) — Local-first runtime policy layer for AI coding agents; reviews shell commands, file access, package installs, and MCP tool calls before execution.
 - [ottosulin/awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) — Curated collection of resources covering AI and LLM security.
 - [yueliu1999/Awesome-Jailbreak-on-LLMs](https://github.com/yueliu1999/Awesome-Jailbreak-on-LLMs) — Curated collection of LLM jailbreak attacks, defenses, guard models, evaluations, datasets, and analysis.
 - [GenggengSvan/Jailbreak-Observatory](https://github.com/GenggengSvan/Jailbreak-Observatory) — Interactive research map tracking LLM jailbreak papers, conference coverage, citations, and attack-defense relationships.
